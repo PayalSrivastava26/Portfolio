@@ -12,4 +12,4 @@ This is a personal portfolio website showcasing my work, skills. The website is 
 - Social media integration
 ##  Live Demo
 
-Check out the live version: 
+Check out the live version: https://github.com/PayalSrivastava26/Portfolio.git
